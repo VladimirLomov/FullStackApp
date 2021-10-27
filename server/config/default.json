@@ -1,0 +1,7 @@
+{
+    "PORT":5000,
+    "secretKey":"mern-secket-key",
+    "secretKey2":"mern-secket-key2",
+    "filePath": "C:/Users/Владимир/Desktop/Full/server/files",
+    "staticPath": "C:/Users/Владимир/Desktop/Full/server/static"
+}
